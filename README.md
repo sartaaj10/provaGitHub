@@ -10,4 +10,4 @@ Prova modifica tramite editor VSC
 
 #Modifica in locale dopo caricamento su github
 
-Prova2 esportazione su github
+Prova3 modifica in locale
