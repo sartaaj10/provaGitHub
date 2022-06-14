@@ -15,3 +15,7 @@ Prova4 modifica su github ed esportazione in locale
 #creazione branch
 
 RIGA AGGIUNTA SU BRANCH modificaBranch
+
+#aggiunta branch su github per pull request
+
+fatto tramite branch modificareadme
